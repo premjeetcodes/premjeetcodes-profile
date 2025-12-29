@@ -6,7 +6,7 @@
 
 
  🌱 **I’m currently learning:** <br>
- Advanced MERN
+ Advanced MERN & AI
 
 
  👯 **I’m looking to collaborate on:** <br>
