@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/premjeet121997/premjeet121997/refs/heads/main/github-header-image%20(1).png)
+![Banner](https://raw.githubusercontent.com/premjeetcodes/premjeetcodes-profile/refs/heads/main/github-header-image.png)
 
 
  🔭 **I’m currently working on:** <br>
